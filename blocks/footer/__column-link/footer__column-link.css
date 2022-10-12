@@ -3,11 +3,6 @@
   color: white;
   line-height: 30px;
   font-size: 18px;
-  transition: opacity .4s;
   display: flex;
   align-items: center;
-}
-
-.footer__column-link:hover {
-  opacity: .6;
 }

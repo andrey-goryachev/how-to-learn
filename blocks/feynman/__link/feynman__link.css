@@ -6,9 +6,4 @@
   font-size: 36px;
   color: #2f80ed;
   text-decoration: none;
-  transition: opacity .4s;
-}
-
-.feynman__link:hover {
-  opacity: .6;
 }
